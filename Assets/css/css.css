@@ -1,0 +1,31 @@
+body {
+
+	background-color: #00A6A6;
+
+	font-family: 'Merriweather', serif;
+
+}
+
+
+
+.jumbotron {
+
+	background-color: #ffae91;
+
+    color: #91fffd;
+
+    border: 5px solid black;
+
+}
+
+
+
+.panel-footer {
+
+    background-color: #452436;
+
+    color: white;
+
+    border-top: 20px solid #26233B;
+
+}
