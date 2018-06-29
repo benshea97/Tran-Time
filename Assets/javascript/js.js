@@ -1,13 +1,14 @@
-var config = {
-    apiKey: "AIzaSyDuSE1rx6qhvWdK-marrgu4tPNRFLpuEzw",
-    authDomain: "testtrain-f1a0d.firebaseapp.com",
-    databaseURL: "https://testtrain-f1a0d.firebaseio.com",
-    projectId: "testtrain-f1a0d",
-    storageBucket: "testtrain-f1a0d.appspot.com",
-    messagingSenderId: "160177655378"
+var config = {  apiKey: "AIzaSyBVsGaap3e_loRKyvkKbddXWWrEf7Fa7lA",
+authDomain: "crossroad-ccc2e.firebaseapp.com",
+databaseURL: "https://crossroad-ccc2e.firebaseio.com",
+projectId: "crossroad-ccc2e",
+storageBucket: "crossroad-ccc2e.appspot.com",
+messagingSenderId: "995481372079"
 };
+
 firebase.initializeApp(config);
 var database = firebase.database();
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
 
 var trainname = "";
 
