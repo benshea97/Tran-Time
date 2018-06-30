@@ -5,7 +5,7 @@ projectId: "crossroad-ccc2e",
 storageBucket: "crossroad-ccc2e.appspot.com",
 messagingSenderId: "995481372079"
 };
-
+t
 firebase.initializeApp(config);
 var database = firebase.database();
 <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
